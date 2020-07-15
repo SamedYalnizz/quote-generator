@@ -9,4 +9,5 @@ Download the repository and open the html file.
 ## Built With
 
 * HTML, CSS, JavaScript
+* Used heroku to create a proxy server
 
