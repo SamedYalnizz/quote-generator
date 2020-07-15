@@ -1,4 +1,4 @@
-# Project Title
+# Inspirational Quote Generator
 
 This learning project is a simple quote generator, fetching quotes from an API and enabling sharing them on twitter.
 
